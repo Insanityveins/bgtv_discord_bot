@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 # script to stop container, update the image, then rerun container
 
